@@ -21,7 +21,7 @@ The below table must contain the details of the repositories you will create, fi
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  Case Study Sakila database |  Exploring the sakila database to answer some questions | https://github.com/D0nG4667/azubi_casestudy_sakila_wk6 |
-| 2 |  -             |  -             | https://       |
+| 2 |  Case Study Titanic dataset |  Exploring the titanic dataset to answer questions      | https://github.com/D0nG4667/azubi_casestudy_titanic_wk7|
 | 3 |  -             |  -             | https://       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
