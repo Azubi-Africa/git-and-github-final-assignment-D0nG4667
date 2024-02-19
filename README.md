@@ -20,7 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
+| 1 |  Case Study Sakila database |  Exploring the sakila database to answer some questions | https://github.com/D0nG4667/azubi_casestudy_sakila_wk6 |
 | 2 |  -             |  -             | https://       |
 | 3 |  -             |  -             | https://       |
 
